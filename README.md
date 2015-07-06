@@ -2,7 +2,7 @@
 
 
 # Homework
-Widgets, Robots, and Pandas
+Humans, Robots, and Pandas
 
 1. Create a class definition for a Human, a Robot, and a Panda.\
 2. All should have a "DisplayName" and a "DisplayGreeting" method. The name should return the value held in an instance variable "Name"
