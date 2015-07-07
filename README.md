@@ -1,5 +1,14 @@
-# Week-2-Day-1
+# Week-2-Day-1 Classes/Interfaces
 
+# Challenge
+
+Write a C# program that prompts the user to input three integer values and find the greatest value of the three values.
+
+#Today
+1. Challenges
+2. Lab Review
+3. Classes - Concrete, Abstract, and Interfaces
+4. .NET Collections 
 
 # Homework
 Humans, Robots, and Pandas
